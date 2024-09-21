@@ -43,28 +43,28 @@ This repository contains various Docker Compose configurations for different app
    ```
 
 ## Folder Details
-1. **mysql-wordpress:** 
+1. **mysql-wordpress** 
    - This setup provides a basic WordPress website with MySQL as the backend database.
 
-2. **docker-compose-data:** 
+2. **docker-compose-data** 
    - An example to demonstrate persistent data management with Docker volumes using Docker Compose.
 
-3. **Flask-redis:** 
+3. **Flask-redis** 
    - A simple Python Flask web application connected to a Redis server for caching data.
 
-4. **nginx_proxy-flask-mongo:** 
+4. **nginx_proxy-flask-mongo** 
    - An Nginx reverse proxy setup with a Flask web application and MongoDB database for data storage.
 
-5. **nginx-nodejs-redis-loadbalancer:** 
+5. **nginx-nodejs-redis-loadbalancer** 
    - A Node.js application with Redis for session management, and Nginx acting as a load balancer for improved scalability.
 
-6. **spring-java-postgres:** 
+6. **spring-java-postgres** 
    - A Spring Boot Java application connected to a PostgreSQL database.
 
-7. **elasticsearch-logstash-kibana*:** 
+7. **elasticsearch-logstash-kibana** 
    - The ELK stack (Elasticsearch, Logstash, and Kibana) configured for log management and analysis.
 
-8. **prometheus-grafana:** 
+8. **prometheus-grafana** 
    - A monitoring and alerting setup using Prometheus as a metrics collector and Grafana for visualizing the metrics data.
 
 ## License
